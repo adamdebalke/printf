@@ -17,4 +17,4 @@ No known bugs, does not implement all qualities of stdio printf, however.
 .SH IMPROVEMENTS
 Implement width, percision, length specifiers for integers, and the other flags '-' & '0'
 .SH AUTHOR
-Adam Debalke & Sofonias seintayhu
+Adam Debalke & Sofonias Sintayehu
