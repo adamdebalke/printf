@@ -1,7 +1,7 @@
 #ifndef _PRINTF_H_
 #define _PRINTF_H_
 #include <stdarg.h>
-#include <unistd.h>
+
 #define BUFF_SIZE 1024
 /**
  * struct type_specifier - contains a type represented as char
